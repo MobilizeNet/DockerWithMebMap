@@ -1,0 +1,1 @@
+﻿Empty noneRoot.txt used to validate the <CopyToPutDirectory> added to the .csproj
