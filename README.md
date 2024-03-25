@@ -62,4 +62,8 @@ If things go awry (as they often do in the realm of containers), take a deep bre
 ### Final Words:
 Congratulations, brave soul! You have successfully embarked on a perilous journey through the labyrinth of Windows containers with a .NET Framework 4.8 app. May your containers be ever resilient, your apps forever functional, and your sense of humor never waver in the face of technological adversity.
 
+<<<<<<< HEAD
 Happy containerizing! 🐳🚀 
+=======
+Happy containerizing! 🐳🚀 
+>>>>>>> 5ebf69d6e1f623bae77a7bbba813f7c63c2e461f
